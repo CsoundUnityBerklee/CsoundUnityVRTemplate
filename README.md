@@ -2,7 +2,7 @@
 
 ## Current Versions
 
-**Unity**:  2020.3.0f1
+**Unity**:  2020.3.27f1
 
 **XR Plugin Management**: 4.0.7
 
