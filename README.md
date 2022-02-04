@@ -10,7 +10,7 @@
 **XR Interaction Toolkit**: 1.0.0-pre.5
 
 
-**Csound Unity**: 3.0.0
+**Csound Unity**: 3.1.1
 
 
 
