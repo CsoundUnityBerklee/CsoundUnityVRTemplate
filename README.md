@@ -3,29 +3,19 @@
 ## Current Versions
 
 **Unity**:  2020.3.27f1
-
-**XR Plugin Management**: 4.0.7
-
-
-**XR Interaction Toolkit**: 1.0.0-pre.5
-
-
+**XR Plugin Management**: 4.2.1
+**XR Interaction Toolkit**: 2.0.0-pre.7
 **Csound Unity**: 3.1.1
 
 
-
 ### General Workflow
-Each one of us has an individual folder for scripts, scenes, and prefabs. In this way we can check out/use what the others are doing in a way that won’t interfere with their work. In order to keep our session organized *we should be very specific with the way we name our objects/scripts/materials/clips/shaders and put every new element in the appropriate folder.* 
+This Unity project can be used as a startingpoint for VR development with the CsoundUnity integration. The XR Interaction Toolkit and CsoundUnity packages are already added and the project is already set up to build to the Oculus Quest 2. The recommendation is to download this project as a .zip folder, rename it, and create a new repository for your project. **Do not work on this repository unless you're updating the template itself.**
 
-### Template
-The ‘Template’ Scene located in the ‘Scenes’ folder is a ready-to-use ‘teleportation-based’ VR environment that can be a guide in the set-up process and an effective tool for fast-prototyping. [Template Video](https://drive.google.com/file/d/1T5aCQDgDX4aq1mYVvq1vv4VL0XT57XDT/view?usp=sharing) 
-
-
-### Github
-Let’s try to be as specific as possible with the description of our commits. In the future we could benefit from [Github Issue's System](https://guides.github.com/features/issues/) to address specific implementation tasks. 
+### Template Scene
+The ‘Template’ Scene located in the ‘Scenes’ folder is a ready-to-use VR environment that can be a guide in the set-up process and an effective tool for fast-prototyping.
 
 
-### Resources
+### RESOURCES
 
 [**Step-by-Step Setup**](https://docs.google.com/document/d/1BNMPTBUtYkU1vpVhJm5mNDmsK5zea1AcQwM7IDez2Y4/edit?usp=sharing)
 
