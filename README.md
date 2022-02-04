@@ -2,7 +2,7 @@
 
 ## Current Versions
 
-**Unity**:  2020.3.0f1
+**Unity**:  2020.3.27f1
 
 **XR Plugin Management**: 4.0.7
 
@@ -10,7 +10,7 @@
 **XR Interaction Toolkit**: 1.0.0-pre.5
 
 
-**Csound Unity**: 3.0.0
+**Csound Unity**: 3.1.1
 
 
 
