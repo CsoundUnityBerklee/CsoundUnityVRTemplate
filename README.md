@@ -49,3 +49,17 @@ Pedro Sodre - psodre@berklee.edu
 Mateo Larrea - mlarrea@berklee.edu
 
 Caio Jiacomini - cmigueljiacomini@berklee.edu
+
+Chen Liu - cliu9@berklee.edu
+
+Mitchell Mcdermott - mmcdermott1@berklee.edu
+
+Aman Jagwani -  ajagwani@berklee.edu
+
+Igor Vogels - ivogels@berklee.edu
+
+Noah Leong - nleong2@berklee.edu
+
+Ningxin Zhang - nzhang4@berklee.edu
+
+
