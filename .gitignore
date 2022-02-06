@@ -4,6 +4,7 @@ CsoundUnityVRTemplate/[Oo]bj/
 CsoundUnityVRTemplate/[Bb]uild/
 CsoundUnityVRTemplate/[Bb]uilds/
 CsoundUnityVRTemplate/Assets/AssetStoreTools*
+CsoundUnityVRTemplate/UserSettings/
 
 # Visual Studio cache directory
 CsoundUnityVRTemplate/.vs/
