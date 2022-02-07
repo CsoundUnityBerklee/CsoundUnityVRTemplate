@@ -10,6 +10,11 @@ public class CsoundOnCollisionEnter : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
+        PlaySound();
+    }
+
+    public void PlaySound()
+    {
         toggle = 1 - toggle;
         csound.SetChannel(triggerChannel, toggle);
     }

@@ -149,6 +149,7 @@ GameObject:
   - component: {fileID: 7297060928038124463}
   - component: {fileID: 7297060928038124456}
   - component: {fileID: 7297060928038124457}
+  - component: {fileID: 6876060537582048543}
   m_Layer: 0
   m_Name: LeftHand Controller
   m_TagString: Untagged
@@ -508,6 +509,57 @@ MonoBehaviour:
   m_SnapThresholdDistance: 10
   m_Reticle: {fileID: 0}
   m_StopLineAtFirstRaycastHit: 1
+--- !u!114 &6876060537582048543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7297060928038124459}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ec262c7c245485aabf5bb345c9920f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controllerCharacteristics: 260
+  primaryButtonValue: 0
+  secondaryButtonValue: 0
+  triggerValue: 0
+  gripValue: 0
+  triggerButtonValue: 0
+  gripButtonValue: 0
+  joystickValue: {x: 0, y: 0}
+  joystickClickValue: 0
+  primaryButtonPressEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  primaryButtonReleaseEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  secondaryButtonPressEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  secondaryButtonReleaseEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  triggerButtonPressEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  triggerButtonReleaseEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  gripButtonPressEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  gripButtonReleaseEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  joystickPressEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  joystickReleaseEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7297060929161286910
 GameObject:
   m_ObjectHideFlags: 0
@@ -521,6 +573,7 @@ GameObject:
   - component: {fileID: 7297060929161286882}
   - component: {fileID: 7297060929161286883}
   - component: {fileID: 7297060929161286908}
+  - component: {fileID: 7297060928017401013}
   m_Layer: 0
   m_Name: RightHand Controller
   m_TagString: Untagged
@@ -880,6 +933,57 @@ MonoBehaviour:
   m_SnapThresholdDistance: 10
   m_Reticle: {fileID: 0}
   m_StopLineAtFirstRaycastHit: 1
+--- !u!114 &7297060928017401013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7297060929161286910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ec262c7c245485aabf5bb345c9920f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  controllerCharacteristics: 516
+  primaryButtonValue: 0
+  secondaryButtonValue: 0
+  triggerValue: 0
+  gripValue: 0
+  triggerButtonValue: 0
+  gripButtonValue: 0
+  joystickValue: {x: 0, y: 0}
+  joystickClickValue: 0
+  primaryButtonPressEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  primaryButtonReleaseEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  secondaryButtonPressEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  secondaryButtonReleaseEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  triggerButtonPressEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  triggerButtonReleaseEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  gripButtonPressEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  gripButtonReleaseEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  joystickPressEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  joystickReleaseEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7297060929434702151
 GameObject:
   m_ObjectHideFlags: 0
@@ -980,7 +1084,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_System: {fileID: 7297060929434702155}
-  m_MoveSpeed: 1
+  m_MoveSpeed: 1.5
   m_EnableStrafe: 1
   m_UseGravity: 1
   m_GravityApplicationMode: 0
