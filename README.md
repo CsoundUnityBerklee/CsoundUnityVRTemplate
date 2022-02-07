@@ -12,7 +12,10 @@
 
 
 ### General Workflow
-This Unity project can be used as a startingpoint for VR development with the CsoundUnity integration. The XR Interaction Toolkit and CsoundUnity packages are already added and the project is already set up to build to the Oculus Quest 2. The recommendation is to download this project as a .zip folder, rename it, and create a new repository for your project. **Do not work on this repository unless you're updating the template itself.**
+This Unity project can be used as a starting point for VR development with the CsoundUnity integration. The XR Interaction Toolkit and CsoundUnity packages are already added and the project is already set up to build to the Oculus Quest 2.
+
+### Instruction for use
+Download this project as a .zip folder, rename the Unity project folder with your project's name, and create a new repository for your project. **Do not work on this repository unless you're updating the template itself.**
 
 ### Template Scene
 The ‘Template’ Scene located in the ‘Scenes’ folder is a ready-to-use VR environment that can be a guide in the set-up process and an effective tool for fast-prototyping.
@@ -54,5 +57,3 @@ Igor Vogels - ivogels@berklee.edu
 Noah Leong - nleong2@berklee.edu
 
 Ningxin Zhang - nzhang4@berklee.edu
-
-
